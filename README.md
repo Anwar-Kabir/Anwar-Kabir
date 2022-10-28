@@ -1,16 +1,3 @@
-
-### Hola, 👋 I'm Anwar Kabir
-
-🔭 I’m currently working on - begumbazar.com.bd \
-👯 I’m looking to collaborate on - Flutter web \
-🤝 I’m looking for help with - GraphQL \
-🌱 I’m currently learning - node.js, express.js \
-💬 Ask me about - Dart, Flutter \
-⚡ Fun fact - I love to watch old movies, drama. \
-🪁 Live Project - https://barnamalavidyapeeth.com/ \
-🎨 Domain Holder - begumbazar.com.bd & hitaishi.com.bd \
-
-
 <h1 align="center">Hi 👋, I'm Anwar Kabir</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh.</h3>
 
@@ -31,6 +18,10 @@
 - 📫 How to reach me **anwarkabir1994@gmail.com, Phone +88 01778 - 603274**
 
 - ⚡ Fun fact **Love to watch old movie & drama.**
+
+- 🪁 Live Project - https://barnamalavidyapeeth.com/ **
+
+🎨 Domain Holder - begumbazar.com.bd & hitaishi.com.bd **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
