@@ -19,6 +19,8 @@
 
 - 🎨 Domain Holder - begumbazar.com.bd & hitaishi.com.bd
 
+- 📄 Know about my experiences [https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf](https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/munnar94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/munnar94" height="30" width="40" /></a>
