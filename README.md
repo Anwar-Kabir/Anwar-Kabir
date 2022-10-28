@@ -19,9 +19,9 @@
 
 - ⚡ Fun fact **Love to watch old movie & drama.**
 
-- 🪁 Live Project - https://barnamalavidyapeeth.com/ **
+- 🪁 Live Project - https://barnamalavidyapeeth.com/**
 
-🎨 Domain Holder - begumbazar.com.bd & hitaishi.com.bd **
+- 🎨 Domain Holder - begumbazar.com.bd & hitaishi.com.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
