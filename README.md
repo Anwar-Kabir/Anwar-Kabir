@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anwar Kabir</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anwar-kabir&label=Profile%20views&color=0e75b6&style=flat" alt="anwar-kabir" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwar-kabir" alt="anwar-kabir" /></a> </p>
-
 - 🔭 I’m currently working on **begumbazar.com.bd**
 
 - 🌱 I’m currently learning **node.js, express.js**
