@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anwar Kabir</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh.</h3>
 
+🔭 I’m currently working on - begumbazar.com.bd<br>
+👯 I’m looking to collaborate on - Flutter web<br>
+🤝 I’m looking for help with - GraphQL<br>
+🌱 I’m currently learning - node.js, express.js<br>
+💬 Ask me about - Dart, Flutter<br>
+⚡ Fun fact - love to watch old movies & videos<br>
+🪁 Live Project - https://barnamalavidyapeeth.com/<br>
+🎨 Domain Holder - begumbazar.com.bd & hitaishi.com.bd</br>
+📄 Know about my experiences  CV - [https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf](https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf)
+
+
 - 🔭 I’m currently working on **begumbazar.com.bd**
 
 - 🌱 I’m currently learning **node.js, express.js**
