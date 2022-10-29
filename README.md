@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anwar Kabir</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh.</h3>
 
-🔭 I’m currently working on - begumbazar.com.bd<br>
-👯 I’m looking to collaborate on - Flutter web<br>
-🤝 I’m looking for help with - GraphQL<br>
-🌱 I’m currently learning - node.js, express.js<br>
-💬 Ask me about - Dart, Flutter<br>
-⚡ Fun fact - love to watch old movies & videos<br>
-🪁 Live Project - https://barnamalavidyapeeth.com/<br>
-🎨 Domain Holder - begumbazar.com.bd & hitaishi.com.bd</br>
-📄 Know about my experiences  CV - [https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf](https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf)
-
 
 - 🔭 I’m currently working on **begumbazar.com.bd**
 
@@ -31,6 +21,10 @@
 - 🎨 Domain Holder - begumbazar.com.bd & hitaishi.com.bd
 
 - 📄 Know about my experiences  CV - [https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf](https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf)
+
+</br> ## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/anwar#1217) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Munna.R94/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anwar-kabir-munna-253996209/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/MunnaR94) 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
