@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-<h1 align="center">Hi 👋, I'm Anwar Kabir, Flutter Developer</h1>
-<h3 align="center">A passionate Flutter developer from Bangladesh.</h3>
+<h1> Hi 👋, I'm Anwar Kabir</h1>
+<h3>Flutter Developer</h3>
 
 🔭 I’m currently working on - begumbazar.com.bd<br>
 👯 I’m looking to collaborate on - Flutter web<br>
