@@ -8,7 +8,7 @@
 🤝 I’m looking for help with - GraphQL<br>
 🌱 I’m currently learning - node.js, express.js<br>
 💬 Ask me about - Dart, Flutter<br>
-⚡ Fun fact - love to watch old movies & videos<br>
+⚡ Fun fact - love to watch old movies & drama<br>
 🪁 Live Project - https://barnamalavidyapeeth.com/<br>
 🎨 Domain Holder - begumbazar.com.bd & hitaishi.com.bd</br>
 📄 Know about my experiences  CV - [https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf](https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf)</br>
