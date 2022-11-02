@@ -12,6 +12,7 @@
 🪁 Live Project - https://barnamalavidyapeeth.com/<br>
 🎨 Domain Holder - begumbazar.com.bd & hitaishi.com.bd</br>
 📄 Know about my experiences  CV - [https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf](https://github.com/Anwar-Kabir/Anwar-Kabir/blob/main/Md.%20Anwar%20Kabir%20CV7.pdf)</br>
+📌 Play Store Account - https://play.google.com/store/apps/dev?id=8271291230414986966<br>
 
 
 
